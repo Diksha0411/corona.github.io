@@ -6,7 +6,9 @@
 	<?php include 'links/link.php'?>
 	<?php include 'css/style.php'?>
 	</head>
-<body onload="fetch()">
+<body >
+	hello
+	
 <nav class="navbar navbar-expand-lg nav_style p-3 ">
   <a class="navbar-brand " href="#">COVID-19</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
